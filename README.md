@@ -1,4 +1,4 @@
-# TextReader
+# TextReader Win32 C++
 This application allow you to select a text from anywhere, and press Ctrl+E to start reading it, and Ctrl+E again to stop it.
 
 # Screenshot
